@@ -5,7 +5,7 @@ The Movie Watchlist application is a web-based tool that allows users to manage 
 
 ## Link for Visit
 
-[Go Live On](https://movie-watchlist-application-invact.vercel.app/)
+[Go Live On](https://movie-watchlist-application-kappa.vercel.app/)
 
 [Youtube Video Link](https://www.loom.com/share/003faaef6315434bb071f3e52a5f9e86?sid=57d62c33-549a-4f9a-acde-e367785b5f37)
 
