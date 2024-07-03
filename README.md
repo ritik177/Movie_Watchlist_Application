@@ -7,7 +7,7 @@ The Movie Watchlist application is a web-based tool that allows users to manage 
 
 [Go Live On](https://movie-watchlist-application-invact.vercel.app/)
 
-[Youtube Video Link]()
+[Youtube Video Link](https://www.loom.com/share/003faaef6315434bb071f3e52a5f9e86?sid=57d62c33-549a-4f9a-acde-e367785b5f37)
 
 ## Key Features
 
@@ -53,7 +53,7 @@ The Movie Watchlist application is a web-based tool that allows users to manage 
 
 1. Clone the repository:
    ``` bash
-   git clone https://github.com/Anjali9561Gupta/Movie-Watchlist-Application-Invact.git
+   git clone https://github.com/ritik177/Movie_Watchlist_Application
    cd frontend
   ``
   
@@ -69,8 +69,8 @@ The Movie Watchlist application is a web-based tool that allows users to manage 
    
 4. Create a .env file and add the following environment variables:
   `` bash
-      PORT=5000
-      MONGO_URI=your_mongodb_uri
+      port=5000
+     mongoURL=your_mongodb_uri
    ``
 5. Start the backend server:
     `` bash
